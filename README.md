@@ -1,6 +1,7 @@
 # minhas_anotacoes
 
 A new Flutter project.
+Uso banco SQLite e integração dismissible
 
 ## Getting Started
 
